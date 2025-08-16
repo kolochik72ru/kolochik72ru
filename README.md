@@ -36,6 +36,5 @@
 
 ### Статистика GitHub (Опционально)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kolochik72ru&show_icons=true&theme=onedark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolochik72ru&layout=compact&theme=onedark" alt="Top Languages" />
 </p>
