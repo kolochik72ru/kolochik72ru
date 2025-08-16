@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi, I'm Gopher!</h1>
 
 ### Я Golang-разработчик с двухлетним опытом!
 
