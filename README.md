@@ -34,7 +34,7 @@
 
 ---
 
-### Статистика GitHub (Опционально)
+### Статистика GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolochik72ru&layout=compact&theme=onedark" alt="Top Languages" />
 </p>
