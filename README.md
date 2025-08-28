@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Gopher!</h1>
 
-### Я Golang-разработчик с двухлетним опытом!
+### Я Golang-разработчик с трехлетним опытом!
 
 Я специализируюсь на создании отказоустойчивых и масштабируемых сервисов, веб-приложений и ботов на **Golang**. Использую чистую архитектуру и подходы **REST API** для написания чистого и эффективного кода. Мне нравится решать сложные задачи и создавать надёжные продукты.
 
@@ -29,8 +29,8 @@
 ---
 
 ### Связаться со мной:
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alva_zero)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kolochik72ru@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aledorso)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kolochikPSN@gmail.com)
 
 ---
 
